@@ -31,3 +31,11 @@ body {
     max-width: 94%;
     margin: 20px 60px;
 }
+@media screen and (max-width: 630px) {
+    .head {
+        font-size: 12px;
+    }
+    .text {
+        font-size: 13px;
+    }
+}
