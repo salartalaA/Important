@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    direction: rtl;
+    background-color: #fff;
+    font-family: tahoma;
+}
+.head {
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    line-height: 40px;
+    text-align: center;
+    margin: 20px 50px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+.text {
+    color: #fff;
+    background-color: #e97624;
+    font-family: B Nazanin;
+    font-size: 20px;
+    line-height: 36px;
+    border: 2px solid #8b0000;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 94%;
+    margin: 20px 60px;
+}
